@@ -77,7 +77,7 @@ I'm a backend-focused Computer Science graduate from Cairo University (Faculty o
 `Java` `Spring Boot` `PostgreSQL` `JUnit`
 
 **[Online Bookstore (Tale Tower Library)](https://github.com/Nerosegnofic/Online-Bookstore)** — A server-rendered Django app for browsing and managing a book catalog, with CSRF-protected forms and jQuery-driven interactivity.
-`Django` `JavaScript` `HTML/CSS`
+`HTML/CSS` `Django` `JavaScript`
 
 ## 🔗 Links
 
