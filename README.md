@@ -73,11 +73,14 @@ I'm a backend-focused Computer Science graduate from Cairo University (Faculty o
 **[StudyMentor](https://github.com/Nerosegnofic/StudyMentor)** — Graduation project (A+). Co-led a 4-person team to build an adaptive learning platform that turns school curricula into personalized, gamified quizzes — complete with a "quiz-to-unlock" screen-time system for parents and full Arabic/English localization.
 `Flutter` `Kotlin` `Firebase` `FastAPI` `PostgreSQL + pgvector`
 
-**[Learning Management System](https://github.com/Ahmed99125/LMS)** — A Spring Boot REST API for managing courses, assignments, and quizzes with role-based access (Admin/Instructor/Student), JWT authentication, and Cloudinary-backed file uploads.
-`Java` `Spring Boot` `PostgreSQL` `JUnit`
+**[YelpCamp](https://github.com/Nerosegnofic/YelpCamp)** — A full-stack campground platform where users can create, browse, review, and manage campgrounds, featuring authentication, authorization, image uploads, interactive maps, and server-side validation.
+`Node.js` `Express.js` `MongoDB` `EJS` `Bootstrap`
 
 **[Online Bookstore (Tale Tower Library)](https://github.com/Nerosegnofic/Online-Bookstore)** — A server-rendered Django app for browsing and managing a book catalog, with CSRF-protected forms and jQuery-driven interactivity.
 `HTML/CSS` `Django` `JavaScript`
+
+**[Learning Management System](https://github.com/Ahmed99125/LMS)** — A Spring Boot REST API for managing courses, assignments, and quizzes with role-based access (Admin/Instructor/Student), JWT authentication, and Cloudinary-backed file uploads.
+`Java` `Spring Boot` `PostgreSQL` `JUnit`
 
 ## 🔗 Links
 
@@ -85,3 +88,4 @@ I'm a backend-focused Computer Science graduate from Cairo University (Faculty o
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-abdelnabi/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nerosegnofic/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nerosegnofic)
+```
